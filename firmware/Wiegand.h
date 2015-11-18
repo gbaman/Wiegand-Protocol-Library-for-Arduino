@@ -4,7 +4,7 @@
 #if defined(ARDUINO) && ARDUINO >= 100
 #include "Arduino.h"
 #else
-#include "WProgram.h"
+#include "application.h"
 #endif
 
 class WIEGAND {

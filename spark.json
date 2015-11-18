@@ -1,0 +1,7 @@
+{
+	"name": "Wiegand Protocol Library",
+	"author": "MonkeyBoard",
+	"version": "1.0.2",
+	"license": "MIT License (MIT)",
+	"description": " Wiegand 24 and Wiegand 36 Protocol Library for Arduino "
+}
