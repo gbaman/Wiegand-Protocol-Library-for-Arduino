@@ -32,7 +32,7 @@ bool WIEGAND::available()
 
 void WIEGAND::begin()
 {
-  begin(2,0,3,1);
+  begin(D2,D2,D3,D3);
 }
 
 void WIEGAND::begin(int pinD0, int pinIntD0, int pinD1, int pinIntD1)
