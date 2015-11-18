@@ -1,11 +1,8 @@
 #ifndef _WIEGAND_H
 #define _WIEGAND_H
 
-#if defined(ARDUINO) && ARDUINO >= 100
-#include "Arduino.h"
-#else
 #include "application.h"
-#endif
+
 
 class WIEGAND {
 
